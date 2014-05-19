@@ -1,0 +1,20 @@
+#Replace \n
+c-q c-j
+
+*********窗口***********
+C-x 1 :最大化当前窗口
+C-x o :光标移到其他窗口
+C-x 2 :对窗口水平分割
+C-x 3 :对窗口垂直分割
+C-x 0 :关闭当前窗口
+
+*********缓冲区***********
+C-x C-f :打开或创建文件
+C-x C-b :显示buffer列表，可以用方向键选择
+C-x C-w :另存为
+C-x b :switch-to-buffer
+C-x k :kill buffer
+C-x C-s :save buffer
+C-x C-c :save buffer and kill terminal
+C-x ← :pervious buffer
+C-x → :next buffer
